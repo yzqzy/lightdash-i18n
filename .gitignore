@@ -92,3 +92,6 @@ data/
 
 # environment
 .env*
+
+# .pnpm   
+.pnpm-store
